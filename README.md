@@ -1,7 +1,6 @@
-### Hello 👋
+### 👋 Hello 👋
 
-初めまして。普段は某企業でゲームプログラマーとして働いている人です。
-
+初めまして。普段は某企業でゲームプログラマーとして働いている人です。  
 Hello! Nice to meet you.I usually work as a game programmer at a certain company.
 
 
@@ -21,12 +20,12 @@ Here are some ideas to get you started:
 -->
 
 
-- 🏢 Work - game programmer
-- Now using...Unity!
-- Enjoy Speedrun - Celeste Any%.  
+- **💼Work** - _Game programmer_  
+  Now using...Unity!
+- **🍓Enjoy Speedrun** - _Celeste Any%._  
   Personal Best: [1:01:38.367](https://www.twitch.tv/videos/1558833966)
 
 
-### ？Ask me...
-- [Twitter: @murnana](https://twitter.com/murnana)
-- [マシュマロ](https://marshmallow-qa.com/murnana?utm_medium=url_text&utm_source=promotion)
+### ？Ask me anything？
+- [Twitter: @murnana](https://twitter.com/murnana)  
+- [マシュマロ](https://marshmallow-qa.com/murnana?utm_medium=url_text&utm_source=promotion) 
