@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+初めまして。普段は某企業でゲームプログラマーとして働いている人です。
+
+Hello! Nice to meet you.I usually work as a game programmer at a certain company.
+
 
 <!--
 **murnana/murnana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🏢 Work - game programmer
+
+#### Language
+- C/C++
+- C#
+- JavaScript
+- TypeScript
+
+
+#### Using...
+- Unity
+  - C#
+  - Shader (HLSL)
+  - Extending editor
+
+
+
+
+### 🎮Hobby
+
+**Play Game!!!**
+
+#### Speedrun: Celeste Any%
+Personal Best: [1:01:38.367](https://www.twitch.tv/videos/1558833966)
+
+
+### ？Ask me...
+- [Twitter: @murnana](https://twitter.com/murnana)
+- [マシュマロ](https://marshmallow-qa.com/murnana?utm_medium=url_text&utm_source=promotion)
