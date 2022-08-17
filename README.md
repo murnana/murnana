@@ -21,30 +21,10 @@ Here are some ideas to get you started:
 -->
 
 
-### 🏢 Work - game programmer
-
-#### Language
-- C/C++
-- C#
-- JavaScript
-- TypeScript
-
-
-#### Using...
-- Unity
-  - C#
-  - Shader (HLSL)
-  - Extending editor
-
-
-
-
-### 🎮Hobby
-
-**Play Game!!!**
-
-#### Speedrun: Celeste Any%
-Personal Best: [1:01:38.367](https://www.twitch.tv/videos/1558833966)
+- 🏢 Work - game programmer
+- Now using...Unity!
+- Enjoy Speedrun - Celeste Any%.  
+  Personal Best: [1:01:38.367](https://www.twitch.tv/videos/1558833966)
 
 
 ### ？Ask me...
